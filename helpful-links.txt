@@ -1,0 +1,52 @@
+11 powerful Examples of Responsive Web Design:
+https://www.invisionapp.com/inside-design/examples-responsive-web-design/
+
+MEDIA QUERIES:
+@media all and (max-width: 1199px) {
+    body {
+        background-color: #0fb784;
+        color: #9e4157;
+    }
+}
+@media all and (max-width: 991px) {
+    body {
+        background-color: #9e4157;
+        color: #372f93;
+    }
+}
+@media all and (max-width: 768px) {
+    body {
+        background-color: #372f93;
+        color: #b4d455;
+    }
+}
+@media all and (max-width: 575px) {
+    body {
+        background-color: #b4d455;
+        color: orange;
+    }
+}
+​
+@media all and (min-width: 1200px) {
+    body {
+        background-color: #30447B;
+        color: orangered;
+    }
+​
+}
+
+CSS GRID GENERATOR:
+https://css-grid-layout-generator.pw/
+
+CSS GRID CHEATSHEET:
+http://grid.malven.co/
+
+EMMET SHORTCUT:
+https://docs.emmet.io/cheat-sheet/
+
+YOUTUBE VID FOR RELATIVE AND ABSOLUTE SIZING UNITS:
+https://www.youtube.com/watch?v=qrduUUdxBSY
+-----------------------------------------------GIT-----------------------
+https://learngitbranching.js.org/?locale=en_US
+-----------------------------------------------JS------------------------
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts
